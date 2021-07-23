@@ -1,5 +1,6 @@
 # cypress-infrastructure-example
-Project to practice automation testing configuration around the Cypress framework
+Project to practice automation testing configuration around the Cypress framework.
+
 Create React App is used as application under test 
 
 # Getting Started with Create React App
